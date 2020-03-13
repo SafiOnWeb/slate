@@ -1,1 +1,1 @@
-A better version of slate.
+A better version of slate. Web app.
